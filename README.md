@@ -1,18 +1,18 @@
 # Olá, eu sou Artur Silva Araújo 👋
 
-Estudante de Engenharia de Software em Teixeira de Freitas (BA). Crio sites e soluções com IA para negócios locais pela **Verus Soluções Inteligentes** e desenvolvo projetos próprios para aprender na prática. Estou aberto a oportunidades de estágio e júnior.
+Estudante de Engenharia de Software em Teixeira de Freitas (BA). Crio propostas de site e soluções com IA para negócios locais pela **Verus Soluções Inteligentes** e desenvolvo projetos próprios para aprender na prática. Estou aberto a oportunidades de estágio e júnior.
 
 - 🌐 Portfólio: [euartursilva.github.io/PORTIF-LIO](https://euartursilva.github.io/PORTIF-LIO/)
 - 💼 LinkedIn: [Artur Silva Araújo](https://www.linkedin.com/in/artur-silva-araújo-9614a7213)
 - 📷 Verus no Instagram: [@verus.solutions](https://www.instagram.com/verus.solutions/)
 
-## Sites para clientes
+## Propostas de site para clientes
 
 | Cliente | Segmento | Situação |
 | --- | --- | --- |
-| [Dr. Franch Campos](https://euartursilva.github.io/site-dr.franch/) · [código](https://github.com/euartursilva/site-dr.franch) | Nutrologia e medicina esportiva | No ar |
-| [Amorim CT](https://euartursilva.github.io/amorim-ct-site/) · [código](https://github.com/euartursilva/amorim-ct-site) | Academia | No ar |
-| [Strike Team](https://euartursilva.github.io/strike-team-site/) · [código](https://github.com/euartursilva/strike-team-site) | Escola de Muaythai | No ar |
+| [Dr. Franch Campos](https://euartursilva.github.io/site-dr.franch/) · [código](https://github.com/euartursilva/site-dr.franch) | Nutrologia e medicina esportiva | Demonstração |
+| [Amorim CT](https://euartursilva.github.io/amorim-ct-site/) · [código](https://github.com/euartursilva/amorim-ct-site) | Academia | Demonstração |
+| [Strike Team](https://euartursilva.github.io/strike-team-site/) · [código](https://github.com/euartursilva/strike-team-site) | Escola de Muaythai | Demonstração |
 | [3D Scan](https://euartursilva.github.io/site-3dscan-radiologia/) · [código](https://github.com/euartursilva/site-3dscan-radiologia) | Radiologia odontológica | Demonstração |
 | [Clínica Inovar](https://euartursilva.github.io/site-clinica-inovar/) · [código](https://github.com/euartursilva/site-clinica-inovar) | Odontologia e estética | Demonstração |
 | [Oral Centter](https://euartursilva.github.io/site-oral-centter/) · [código](https://github.com/euartursilva/site-oral-centter) | Clínica odontológica | Demonstração |
